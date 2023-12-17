@@ -1,0 +1,49 @@
+.header {
+  background-image: url("./../../img/bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header__row {
+  margin-top: -45px;
+
+  display: flex;
+  align-items: center;
+  column-gap: 150px;
+}
+.header__row h1 {
+  display: block;
+  color: #fff;
+
+  font-family: Garamond;
+  font-size: 96px;
+
+  font-weight: 700;
+}
+
+.header__actions {
+  display: flex;
+  column-gap: 20px;
+  vertical-align: middle;
+}
+.action-icon {
+  background-color: #fff;
+  border-radius: 50%;
+  width: 73px;
+  height: 73px;
+  position: relative;
+}
+
+.action-icon img {
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.actions__profile {
+}
+
+.actions__basket {
+}
