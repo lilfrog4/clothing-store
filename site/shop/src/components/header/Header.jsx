@@ -10,7 +10,13 @@ function Header() {
           <div className="header__logo">
             <img src={logoImg} alt="LOGO" />
           </div>
-          <h1>DANIEL WILDSON</h1>
+          <div className="title">
+            <div className="tit1">DANIEL WILDSON</div>
+            <div className="tit2">
+              BE <p>wild</p>, SON
+            </div>
+          </div>
+
           <div className="header__actions">
             <a href="!#" className="action-icon actions__profile">
               <img src={profileImg} alt="PROFILE" />
