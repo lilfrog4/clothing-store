@@ -1,11 +1,11 @@
 .body__content {
-  margin-top: 51px;
+  margin-top: 50px;
 }
 
 .body__nav ul {
-  margin-left: 434px;
   display: flex;
   column-gap: 30px;
+  justify-content: center;
 }
 
 .body__nav a {
@@ -43,7 +43,6 @@
 }
 
 .body__rectangles {
-  padding-top: 66px;
 }
 .body__rectangles ul {
   display: flex;

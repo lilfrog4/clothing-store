@@ -10,23 +10,6 @@ const Body = () => {
     <section className="body">
       <div className="container">
         <div className="body__content">
-          <nav className="body__nav">
-            <ul>
-              <li>
-                <a href="#!">ФУТБОЛКИ</a>
-              </li>
-              <li>
-                <a href="#!">ТОЛСТОВКИ</a>
-              </li>
-              <li>
-                <a href="#!">ШТАНЫ</a>
-              </li>
-              <li>
-                <a href="#!">АКСЕССУАРЫ</a>
-              </li>
-            </ul>
-          </nav>
-
           <div className="body__rectangles">
             <ul>
               <li>

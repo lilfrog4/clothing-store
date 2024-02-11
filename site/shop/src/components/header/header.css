@@ -1,6 +1,7 @@
 .header__row {
   display: flex;
   align-items: center;
+  justify-content: center;
   column-gap: 150px;
 }
 .tit1 {
